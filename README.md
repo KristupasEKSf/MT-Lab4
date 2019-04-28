@@ -5,6 +5,10 @@ This lab aims to build your first WebRTC app.
 There are many open source alternatives to build a simple communication application like Skype. One of the web based solution is WebRTC. You can try a huge set of examples: 
 https://webrtc.github.io/samples/
 
+# Browsers tested
+  - Google Chrome (newest version)
+  - Mozilla Firefox (newest version)
+
 # Requirements for repository
   - You have to clone this repository and make two branches (master and develop).
   - The develop branch should contain commits of every new feature of the AR application.
